@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to my profile! / Bem vindo ao meu perfil! 👋
 
-<!--
-**Tales-H/Tales-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eng:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on changing my career path
+- 🌱 I’m currently learning JavaScript, MySQL and PHP
+- 🤔 I’m looking for tips for beginners like me
+- 📫 How to reach me: tales.hein@hotmail.com  
+- 😄 Pronouns: he/him
+- 🚀 TECPUC and StartSe student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pt-br:
+
+- 🔭 Atualmente, estou trabalhando em mudar de carreira
+- 🌱 Atualmente, estou aprendendo JavaScript, MySQL e PHP
+- 🤔 Provurando por dicas para iniciantes como eu
+- 📫 Como entrar em contato: tales.hein@hotmail.com  
+- 😄 Pronomes: ele/dele
+- 🚀 Aluno TECPUC e StartSe
