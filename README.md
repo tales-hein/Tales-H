@@ -13,7 +13,7 @@ pt-br:
 
 - 🔭 Atualmente, estou trabalhando em mudar de carreira
 - 🌱 Atualmente, estou aprendendo JavaScript, MySQL e PHP
-- 🤔 Provurando por dicas para iniciantes como eu
+- 🤔 Procurando por dicas para iniciantes como eu
 - 📫 Como entrar em contato: tales.hein@hotmail.com  
 - 😄 Pronomes: ele/dele
 - 🚀 Aluno TECPUC e StartSe
